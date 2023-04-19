@@ -23,7 +23,7 @@ class _HomeScreenState extends State<HomeScreen> {
   List<Widget> pages = [
     const MeetingScreen(),
     const HostoryMeetingScreen(),
-    const Text('contacts'),
+    const Text('Shubham '),
     const Text('Settings'),
   ];
 
